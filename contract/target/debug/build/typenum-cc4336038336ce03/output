@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ymc182/Near/neph-dao/contract/target/debug/build/typenum-cc4336038336ce03/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ymc182/Near/neph-dao/contract/target/debug/build/typenum-cc4336038336ce03/out/op.rs
